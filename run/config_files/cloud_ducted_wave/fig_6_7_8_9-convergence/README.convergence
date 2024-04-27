@@ -1,0 +1,6 @@
+Input files set up to run compressible semi-implicit KW case ("psolver = 3").
+
+To run anelastic case change to "psolver = 4".
+To run incompressible case change to "psolver = 5".
+
+Curves in figure 6 correspond to H=625 input files here.
